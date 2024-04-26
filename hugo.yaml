@@ -1,5 +1,5 @@
 baseURL: 'https://minimal-marketing.pages.dev'
-title: 'Minimal Marketing'
+title: 'Biz Ideas'
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
@@ -13,15 +13,15 @@ params:
   author:
   author_image: /images/defaults/author.jpg
   og_image: /images/defaults/featured_image.jpg
-  moto: "Learn marketing at a minimal cost."
-  description: "This website costs only $10/year to host. Which leaves you plenty of room to experiment with your time without burning cash on marketing."
+  moto: "The most profitable number in your phone"
+  description: "We text once a week with a vetted startup idea from the best founders."
   google_analytics_id: '' # @NOTE: To remove the G2A tag, juste leave this key to an empty string.
   cta:
-    text: Book a meeting
-    url: https://www.youtube.com/watch?v=oHg5SJYRHA0
+    text: Get Your First Idea
+    url: /sign-up
   footer:
-    social_url: https://twitter.com/afrodudeonabike
-    social_username: '@afrodudeonabike'
+    social_url: https://twitter.com/huntsyea
+    social_username: '@huntsyea'
 
 
 taxonomies:
